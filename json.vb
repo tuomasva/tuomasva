@@ -1,3 +1,7 @@
+Imports System.Text
+Imports System.Net
+Imports System.IO
+
 ' Your JSON data
 Dim jsonData As String = "{""username"":""username@example.fi"",""password"":""password""}"
 ' Convert JSON data to a byte array
